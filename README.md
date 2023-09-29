@@ -66,28 +66,3 @@
 [![Replit](https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=orange)](https://replit.com/@ErosKarsburg?path=&tab=repls)
 
 </body>
-<style>
-.ring {
-    color: red;
-}
-
-.bg {
-    color: #0000;
-}
-
-.ttl-clr{
-    color: fffff0;
-}
-
-.badge-sts-theme {
-    background-color: #0000;
-    color: fffff0;
-    border-color: fffff0;
-}
-
-/**/
-
-.dft-font {
-    font-size: 16px;
-}
-</style>
