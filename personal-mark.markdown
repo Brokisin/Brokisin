@@ -3,6 +3,7 @@
 
 ### - Junior Developer at Rodosoft Tecnologia
 ### - Actually working as fullstack software developer.
+
 ### - Professional experience with:
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
