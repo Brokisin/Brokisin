@@ -1,8 +1,6 @@
 # Personal
 Personal Repository
 
-<<<<<<< Updated upstream
-* Tests
 =======
 <h2> 👤 Eros Karsburg </h2>
 
