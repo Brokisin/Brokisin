@@ -77,7 +77,7 @@
 
 <hr>
 
-<h3>Midias</h3>
+<h3>Media</h3>
 
 ![Gmail][gmail]
 [![LinkedIn][linkedin]][myLinkedinLink]
