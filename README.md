@@ -39,14 +39,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Brokisin&show_icons=true&bg_color=0000&border_color=dcdcdc&title_color=fffff0&text_color=dcdcdc&ring_color=ff0000&icon_color=ff0000"
+    srcset="https://github-readme-stats.vercel.app/api?username=eroskarsburg&show_icons=true&bg_color=0000&border_color=dcdcdc&title_color=fffff0&text_color=dcdcdc&ring_color=ff0000&icon_color=ff0000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Brokisin&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=eroskarsburg&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Brokisin&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eroskarsburg&show_icons=true" />
 </picture>
 
 [![Top Langs][myGithubStats]][myGithubStatsLink]
@@ -117,13 +117,13 @@
 
 
 [//]: # (MEDIAS)
-[myGithubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Brokisin&layout=donut&bg_color=0000&border_color=dcdcdc&title_color=fffff0&text_color=dcdcdc
+[myGithubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=eroskarsburg&layout=donut&bg_color=0000&border_color=dcdcdc&title_color=fffff0&text_color=dcdcdc
 [gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 [//]: # (LINKS)
-[myGithubLink]: https://github.com/Brokisin
+[myGithubLink]: https://github.com/eroskarsburg
 [myLinkedinLink]: https://www.linkedin.com/in/eros-karsburg-05630b221/
 [myReplitLink]: https://replit.com/@ErosKarsburg?path=&tab=repls
-[myGithubStatsLink]: https://github.com/Brokisin/github-readme-stats
+[myGithubStatsLink]: https://github.com/eroskarsburg/github-readme-stats
