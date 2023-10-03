@@ -4,7 +4,7 @@
 
 <div style="font-size: 16px;">
   <ul>
-    <li>Actually working as fullstack software developer at Rodosoft Tecnologia 📌</li>
+    <li>Actually working as fullstack software developer at <a href="https://www.rodosoft.com.br/">Rodosoft Tecnologia</a> 📌</li>
     <li>Backend lover ❤️</li>
   </ul>
 </div>
