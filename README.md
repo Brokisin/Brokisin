@@ -1,35 +1,8 @@
-<style>
-.ring {
-    color: red;
-}
-
-.bg {
-    color: #0000;
-}
-
-.ttl-clr{
-    color: fffff0;
-}
-
-.badge-sts-theme {
-    background-color: #0000;
-    color: fffff0;
-    border-color: fffff0;
-}
-
-/**/
-
-.dft-font {
-    font-size: 16px;
-}
-
-</style>
-
 <h1> 👤 Eros Karsburg </h1>
 
 <h3> About me </h3>
 
-<div class="dft-font">
+<div style="font-size: 16px;">
   <ul>
     <li>Actually working as fullstack software developer at Rodosoft Tecnologia 📌</li>
     <li>Backend lover ❤️</li>
@@ -40,7 +13,7 @@
 
 <h3>Professional experiences</h3>
 
-<div class="dft-font">
+<div style="font-size: 16px;">
   <ul>
     <li>Working today with:</li>
   </ul></br>
