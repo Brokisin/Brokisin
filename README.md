@@ -35,8 +35,8 @@
 
 <hr>
 
-<div style="">
-
+<div style="display: flex;">
+<div style="margin: 0px 2px 0px 0px">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=eroskarsburg&show_icons=true&bg_color=0000&border_color=dcdcdc&title_color=fffff0&text_color=dcdcdc&ring_color=ff0000&icon_color=ff0000"
@@ -48,9 +48,12 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=eroskarsburg&show_icons=true" />
 </picture>
+</div>
+<div style="margin: 0px 0px 0px 2px">
 
-[![Top Langs][myGithubStats]][myGithubStatsLink]
+![Top Langs][myGithubStats]
 
+</div>
 </div>
 
 <hr>
