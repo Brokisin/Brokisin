@@ -1,39 +1,14 @@
-<h1> 👤 Eros Karsburg </h1>
+# Hi, I'm Eros Karsburg! 👋
 
-<h3> About me </h3>
+👩‍💻 Currently working as fullstack software developer.
 
-<div style="font-size: 16px;">
-  <ul>
-    <li>Actually working as fullstack software developer at <a href="https://www.rodosoft.com.br/">Rodosoft Tecnologia</a> 📌</li>
-    <li>Backend lover ❤️</li>
-  </ul>
-</div>
+🏢 Employee at Rodosoft Tecnologia.
 
-<hr>
+✍️ Preference for back-end development.
 
-<h3>Professional experiences</h3>
+🧠 Always looking for new knowledge.
 
-<div style="font-size: 16px;">
-  <ul>
-    <li>Working today with:</li>
-  </ul></br>
-
-  ![CSharp][csharp]
-  ![.NET Framework][dotnet]
-  ![HTML5][html5]
-  ![CSS3][css3]
-  ![JavaScript][js]
-  ![jQuery][jquery]
-  ![Flutter][flutter]
-  ![Dart][dart]
-  ![MySQL][mysql]
-  ![VisualStudio][vstudio]
-  ![VSCode][vscode]
-  ![BitBucket][bitbucket]
-
-</div>
-
-<hr>
+## 📝 GitHub Status
 
 <div style="display: flex;">
 <div style="margin: 0px 2px 0px 0px">
@@ -51,33 +26,7 @@
 </div>
 <div style="margin: 0px 0px 0px 2px">
 
-![Top Langs][myGithubStats]
-
-</div>
-</div>
-
-<hr>
-
-<h3>Knowledge in</h3>
-
-<div class="dft-font">
-
-  ![Python][python]
-  ![C][c]
-  ![React][react]
-  
-  ![VisualStudio][vstudio]
-  ![VSCode][vscode]
-  ![PyCharm][pycharm]
-  ![Replit][replit]
-
-</div>
-
-
-
-<hr>
-
-<h3>Media</h3>
+## 🔗 Social Media
 
 ![Gmail][gmail]
 [![LinkedIn][linkedin]][myLinkedinLink]
