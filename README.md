@@ -25,7 +25,9 @@
 </picture>
 </div>
 <div style="margin: 0px 0px 0px 2px">
-![Top Langs][myGithubStats]
+
+  ![Top Langs][myGithubStats]
+
 </div>
 </div>
 
