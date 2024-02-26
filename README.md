@@ -8,7 +8,7 @@
 
 🧠 Always looking for new knowledge.
 
-## 📝 GitHub Status
+## 📝 GitHub Stats
 
 <div style="display: flex;">
 <div style="margin: 0px 2px 0px 0px">
@@ -25,6 +25,9 @@
 </picture>
 </div>
 <div style="margin: 0px 0px 0px 2px">
+![Top Langs][myGithubStats]
+</div>
+</div>
 
 ## 🔗 Social Media
 
