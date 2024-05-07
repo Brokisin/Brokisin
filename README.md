@@ -30,7 +30,6 @@
 
 ![Gmail][gmail]
 [![LinkedIn][linkedin]][myLinkedinLink]
-[![GitHub][github]][myGithubLink]
 [![Replit][replitIDE]][myReplitLink]
 
 
