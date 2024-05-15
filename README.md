@@ -8,9 +8,6 @@
 
 🧠 Always looking for new knowledge.
 
-
-https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif
-
 ## 📝 GitHub Stats
 
 <div style="display: flex;">
