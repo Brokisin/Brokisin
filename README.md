@@ -1,7 +1,5 @@
 # Hi, I'm Eros Karsburg! 👋
 
-<img align="left" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
-
 👩‍💻 Currently working as fullstack software developer.
 
 🏢 Employee at Rodosoft Tecnologia.
