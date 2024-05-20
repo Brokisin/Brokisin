@@ -1,7 +1,4 @@
 <h1 align="center">Pleasure to meet you! I'm Eros Karsburg.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eroskarsburg&label=Profile%20views&color=0e75b6&style=flat" alt="eroskarsburg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eroskarsburg" alt="eroskarsburg" /></a> </p>
 
 - 🏢 Employee at **Rodosoft Tecnologia.**
 
