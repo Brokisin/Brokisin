@@ -1,18 +1,14 @@
 # Hi, I'm Eros Karsburg! 👋
 
 <div>
-    <div style="border: 2px solid white;border-radius: 10px;">
-        <div>
+    <div >
             <p>🏢 Employee at Rodosoft Tecnologia.</p>
             <p>👩‍💻 Currently working as fullstack software developer.</p>
             <p>✍️ Preference for back-end development.</p>
             <p>⌨️ Working with .NET tools in most part.</p>
             <p>🔗 Familiar to microservices and webservices development.</p>
             <p>🧠 Always looking for new knowledge.</p>
-        </div>
-        <div>
             <img align="left" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/20103/developer-dribbble.gif">
-        </div>
     </div>
 </div>
 
