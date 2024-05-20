@@ -1,8 +1,8 @@
 # Hi, I'm Eros Karsburg! 👋
 
-<div style="display: flex; justify-content: center;">
-    <div style="display: flex;align-items: center;border: 2px solid white;border-radius: 10px;">
-        <div style="padding: 1rem;">
+<div>
+    <div style="border: 2px solid white;border-radius: 10px;">
+        <div>
             <p>🏢 Employee at Rodosoft Tecnologia.</p>
             <p>👩‍💻 Currently working as fullstack software developer.</p>
             <p>✍️ Preference for back-end development.</p>
