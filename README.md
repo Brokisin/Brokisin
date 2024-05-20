@@ -10,8 +10,8 @@
             <p>🔗 Familiar to microservices and webservices development.</p>
             <p>🧠 Always looking for new knowledge.</p>
         </div>
-        <div style="padding: 1rem;">
-            <img style="border-radius: 10px;" align="left" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/20103/developer-dribbble.gif">
+        <div>
+            <img align="left" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/20103/developer-dribbble.gif">
         </div>
     </div>
 </div>
